@@ -1,0 +1,15 @@
+C:\Users\The Vil\Documents\MIS 221 Fall 2024\Labs\mis-221-lab-2-NRL1796\bin\Debug\net8.0\mis-221-lab-2-NRL1796.exe
+C:\Users\The Vil\Documents\MIS 221 Fall 2024\Labs\mis-221-lab-2-NRL1796\bin\Debug\net8.0\mis-221-lab-2-NRL1796.deps.json
+C:\Users\The Vil\Documents\MIS 221 Fall 2024\Labs\mis-221-lab-2-NRL1796\bin\Debug\net8.0\mis-221-lab-2-NRL1796.runtimeconfig.json
+C:\Users\The Vil\Documents\MIS 221 Fall 2024\Labs\mis-221-lab-2-NRL1796\bin\Debug\net8.0\mis-221-lab-2-NRL1796.dll
+C:\Users\The Vil\Documents\MIS 221 Fall 2024\Labs\mis-221-lab-2-NRL1796\bin\Debug\net8.0\mis-221-lab-2-NRL1796.pdb
+C:\Users\The Vil\Documents\MIS 221 Fall 2024\Labs\mis-221-lab-2-NRL1796\obj\Debug\net8.0\mis-221-lab-2-NRL1796.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The Vil\Documents\MIS 221 Fall 2024\Labs\mis-221-lab-2-NRL1796\obj\Debug\net8.0\mis-221-lab-2-NRL1796.AssemblyInfoInputs.cache
+C:\Users\The Vil\Documents\MIS 221 Fall 2024\Labs\mis-221-lab-2-NRL1796\obj\Debug\net8.0\mis-221-lab-2-NRL1796.AssemblyInfo.cs
+C:\Users\The Vil\Documents\MIS 221 Fall 2024\Labs\mis-221-lab-2-NRL1796\obj\Debug\net8.0\mis-221-lab-2-NRL1796.csproj.CoreCompileInputs.cache
+C:\Users\The Vil\Documents\MIS 221 Fall 2024\Labs\mis-221-lab-2-NRL1796\obj\Debug\net8.0\mis-221-lab-2-NRL1796.sourcelink.json
+C:\Users\The Vil\Documents\MIS 221 Fall 2024\Labs\mis-221-lab-2-NRL1796\obj\Debug\net8.0\mis-221-lab-2-NRL1796.dll
+C:\Users\The Vil\Documents\MIS 221 Fall 2024\Labs\mis-221-lab-2-NRL1796\obj\Debug\net8.0\refint\mis-221-lab-2-NRL1796.dll
+C:\Users\The Vil\Documents\MIS 221 Fall 2024\Labs\mis-221-lab-2-NRL1796\obj\Debug\net8.0\mis-221-lab-2-NRL1796.pdb
+C:\Users\The Vil\Documents\MIS 221 Fall 2024\Labs\mis-221-lab-2-NRL1796\obj\Debug\net8.0\mis-221-lab-2-NRL1796.genruntimeconfig.cache
+C:\Users\The Vil\Documents\MIS 221 Fall 2024\Labs\mis-221-lab-2-NRL1796\obj\Debug\net8.0\ref\mis-221-lab-2-NRL1796.dll
